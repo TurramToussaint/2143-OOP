@@ -1,2 +1,4 @@
 # 2143-OOP
-2143-OOP Turram Toussaint
+Turram Toussaint
+tbtoussaint0703@my.msutexas.edu
+
